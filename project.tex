@@ -1,0 +1,43 @@
+\documentclass[a4paper,12pt, oneside]{book}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{verbatim}
+\usepackage[utf8]{inputenc}
+ \usepackage{setspace}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\graphicspath{{graphics/}}
+
+\begin{document}
+	
+	\doublespacing
+	\frontmatter
+	\include{titlepage}
+	
+	\include{declaration}
+	\include{acknowledgement}
+	\include{abstract}
+	%\include{abbreviation}
+	
+	\tableofcontents
+	\clearpage
+	%\pagenumbering{arabic}
+
+	\mainmatter
+	\include{chapter1}
+	\include{chapter2}
+	\include{chapter3}
+	\include{chapter4}
+	\include{chapter5}
+
+
+
+	\backmatter
+	\bibliographystyle{apalike} %this can percentaged
+	\bibliography{references}
+%\nocite{*}
+
+
+\end{document}
