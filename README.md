@@ -1,4 +1,4 @@
-# udergrad_thesis
+# undergrad_thesis
 FINAL YEAR PROJECT WORK (UNDERGRADUATE, 2021).
 The study examined the effects of climate change on malaria transmission in Ghana, discovering that rising temperatures due to global warming could potentially increase the vectorial capacity of malaria vectors in various agro-ecological zones, as observed from 1981 to 2020. Higher temperatures generally boost the vectors' ability to transmit malaria but can also decrease their survival probability, indicating a complex relationship between temperature and malaria dynamics. Seasonal fluctuations show that the vectorial capacity and survival probability are higher during the rainy seasons, with the northern zone experiencing significant variation between seasons, while coastal and forest zones maintain high levels throughout the year. This research not only offers critical data for tailoring malaria interventions but also indicates that with continued global warming, there may be an increased risk of malaria transmission, emphasizing the need for adaptable and climate-aware health strategies to combat malaria and aid in achieving Sustainable Development Goal number 3.
 
